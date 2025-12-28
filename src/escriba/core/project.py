@@ -6,4 +6,4 @@ class Project:
         self.books: list[Book] = []
 
     def add_book(self, book:Book):
-        self.books.append(Book)
+        self.books.append(book)
